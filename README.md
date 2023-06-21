@@ -23,7 +23,7 @@ for [jQuery](http://jquery.com/) at just over **7KB compressed** or 25KB uncompr
 Guide and Demos
 ---------------
 
-To view the complete guide and interactive demos of **glDatePicker**, head on to: [http://glad.github.com/glDatePicker/](http://glad.github.com/glDatePicker/)
+To view the complete guide and interactive demos of **glDatePicker**, head on to: [https://glad.github.io/glDatePicker/](https://glad.github.io/glDatePicker/)
 
 
 Quick Start
